@@ -86,7 +86,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
                       ),
                       child: TextField(
                         decoration: InputDecoration(
-                          hintText: "Tìm kiếm",
+                          hintText: "Search your destination",
                           border: InputBorder.none,
                           icon: Icon(Icons.search, color: Colors.grey),
                         ),
